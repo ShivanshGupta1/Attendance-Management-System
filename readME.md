@@ -12,4 +12,4 @@ This is an AMS made by me, which helps school teachers to buy this product, for 
 5. Far more efficient than any calender platform
 6. Can schedule a class in less than 5 seconds
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Here is the link](https://ams-shivansh.glitch.me/)
