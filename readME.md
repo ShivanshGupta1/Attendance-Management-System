@@ -11,3 +11,5 @@ This is an AMS made by me, which helps school teachers to buy this product, for 
 4. Easy to see meets
 5. Far more efficient than any calender platform
 6. Can schedule a class in less than 5 seconds
+
+https://www.google.com "Google's Homepage"
